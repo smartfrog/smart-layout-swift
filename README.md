@@ -1,5 +1,5 @@
-IOS SMART LAYOUT
-================
+SMART LAYOUT (SWIFT)
+====================
 
 Smart Layout helps you to create your IOS screens programmatically. If you found IOS AutoLayout too complex, Smart Layout is made for you.
 
