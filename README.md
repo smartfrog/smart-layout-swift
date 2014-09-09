@@ -13,7 +13,7 @@ It provides you three types of UIView that you can use to arrange easily element
 Installation
 ------------
 
-Just copy files present in the "classes" group of the sample project into your own project.
+Just copy files in the "classes" group of the sample project into your own project.
 
 
 How to use it ?
